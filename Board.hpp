@@ -7,7 +7,7 @@
 #include <string>
 #include <map>
 #include <limits>
-// using namespace std;
+ using namespace std;
 
 const uint INF = std::numeric_limits<uint>::max();
 
